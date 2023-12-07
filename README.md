@@ -8,7 +8,7 @@ O Quizz é uma aplicação interativa que desafia os usuários com perguntas e f
 
 ## Como Usar
 
-1. Acesse [Pirex Previsão](https://pirex-previsao.netlify.app/).
+1. Acesse [Pirex Quizz](https://pirex-quizz.netlify.app/)
 2. Insira o nome da cidade desejada na barra de pesquisa.
 3. Explore os detalhes da previsão do tempo e aproveite as imagens de fundo dinâmicas.
 4. 

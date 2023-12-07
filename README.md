@@ -6,6 +6,12 @@ Bem-vindo ao meu projeto de Quizz em JavaScript Vanilla! Este projeto foi desenv
 
 O Quizz é uma aplicação interativa que desafia os usuários com perguntas e fornece opções de resposta. Os usuários podem selecionar suas respostas, e o aplicativo verifica se estão corretas ou não. O objetivo é criar uma experiência envolvente e educativa.
 
+## Como Usar
+
+1. Acesse [Pirex Previsão](https://pirex-previsao.netlify.app/).
+2. Insira o nome da cidade desejada na barra de pesquisa.
+3. Explore os detalhes da previsão do tempo e aproveite as imagens de fundo dinâmicas.
+4. 
 ## Funcionalidades
 
 - [x] **Perguntas Dinâmicas:** O Quizz exibe perguntas de forma dinâmica, permitindo uma variedade de questões.
